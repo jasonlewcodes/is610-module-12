@@ -10,4 +10,4 @@ pytest
 
 # Docker Hub Repository
 
-https://hub.docker.com/repository/docker/jl247/is601-module-10/general
+https://hub.docker.com/repository/docker/jl247/is601-module-11/general
